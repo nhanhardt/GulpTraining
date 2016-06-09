@@ -1,12 +1,12 @@
 {
-  "name": "Pluralsight-Gulp",
+  "name": "kerosene",
   "version": "0.1.0",
-  "description": "Starter Code for Pluralsight Course JavaScript Build Automation with Gulp.js",
+  "description": "",
   "authors": [
-    "John Papa"
+    ""
   ],
-  "license": "MIT",
-  "homepage": "https://github.com/johnpapa/pluralsight-gulp",
+  "license": "",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
